@@ -1,0 +1,11 @@
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\BoxUnboxIt\bin\Debug\netcoreapp2.2\BoxUnboxIt.deps.json
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\BoxUnboxIt\bin\Debug\netcoreapp2.2\BoxUnboxIt.runtimeconfig.json
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\BoxUnboxIt\bin\Debug\netcoreapp2.2\BoxUnboxIt.runtimeconfig.dev.json
+c:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\BoxUnboxIt\bin\Debug\netcoreapp2.2\BoxUnboxIt.dll
+c:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\BoxUnboxIt\bin\Debug\netcoreapp2.2\BoxUnboxIt.pdb
+c:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\BoxUnboxIt\obj\Debug\netcoreapp2.2\BoxUnboxIt.csprojAssemblyReference.cache
+c:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\BoxUnboxIt\obj\Debug\netcoreapp2.2\BoxUnboxIt.csproj.CoreCompileInputs.cache
+c:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\BoxUnboxIt\obj\Debug\netcoreapp2.2\BoxUnboxIt.AssemblyInfoInputs.cache
+c:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\BoxUnboxIt\obj\Debug\netcoreapp2.2\BoxUnboxIt.AssemblyInfo.cs
+c:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\BoxUnboxIt\obj\Debug\netcoreapp2.2\BoxUnboxIt.dll
+c:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\BoxUnboxIt\obj\Debug\netcoreapp2.2\BoxUnboxIt.pdb
